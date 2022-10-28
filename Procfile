@@ -1,1 +1,1 @@
-worker: python kittybot.py
+worker: python3 kittybot.py
